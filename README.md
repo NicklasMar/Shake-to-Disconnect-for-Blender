@@ -11,7 +11,7 @@ This add-on allows you to disconnect any node simply by grabbing it and shaking 
 - **Smart Detection**: Detects rapid movement within a small radius to prevent accidental disconnects during normal layout adjustments.
 
 ## 📥 Installation
-1. Go to the [Releases page](https://github.com/NicklasMar/Shake-to-Disconnect-for-Blender/releases) and download the latest `.zip` file.
+1. Download the latest `.zip` file from the project's [GitHub download page](https://github.com/NicklasMar/Shake-to-Disconnect-for-Blender/releases).
 2. Unzip the downloaded file.
 3. Open Blender and go to `Edit > Preferences`.
 4. Select the `Add-ons` tab and click `Install...`.
