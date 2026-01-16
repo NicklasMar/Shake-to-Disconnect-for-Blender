@@ -31,3 +31,6 @@ You can adjust the sensitivity in the N-Panel (Sidebar) of the Node Editor under
   - Higher value = Requires more vigorous shaking.
 - **Range Limit**: The maximum radius the node is allowed to move away from its starting point during the shake.
   - Prevents the addon from triggering when you are just dragging a node across the screen.
+
+👨‍💻 Author
+Created by Nicklas.mar Follow on Instagram
